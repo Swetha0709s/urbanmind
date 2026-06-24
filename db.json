@@ -1,0 +1,2872 @@
+{
+  "config": {
+    "aiMode": true,
+    "autoRefresh": true,
+    "aiOpt": true,
+    "predictive": true,
+    "maintenance": false,
+    "security": true,
+    "globalSync": true
+  },
+  "markers": [
+    {
+      "id": 1,
+      "name": "Central District",
+      "lat": 13.0418,
+      "lng": 80.2341,
+      "traffic": 21,
+      "status": "normal"
+    },
+    {
+      "id": 2,
+      "name": "North Harbor",
+      "lat": 13.0033,
+      "lng": 80.255,
+      "traffic": 63,
+      "status": "traffic"
+    },
+    {
+      "id": 3,
+      "name": "Tech Park",
+      "lat": 13.085,
+      "lng": 80.2101,
+      "traffic": 57,
+      "status": "traffic"
+    },
+    {
+      "id": 4,
+      "name": "Riverside",
+      "lat": 12.9796,
+      "lng": 80.2185,
+      "traffic": 27,
+      "status": "normal"
+    },
+    {
+      "id": 5,
+      "name": "Southern Hub",
+      "lat": 12.8913,
+      "lng": 80.2241,
+      "traffic": 15,
+      "status": "normal"
+    }
+  ],
+  "history": [
+    {
+      "traffic": 43,
+      "weather": "Rain",
+      "temperature": 32,
+      "humidity": 48,
+      "airQualityIndex": 50,
+      "pollutionLevel": "Good",
+      "alert": "Weather delay risk alert",
+      "allAlerts": [
+        "Weather delay risk alert"
+      ],
+      "events": [],
+      "markers": [
+        {
+          "id": 1,
+          "name": "Central District",
+          "lat": 13.0418,
+          "lng": 80.2341,
+          "traffic": 33,
+          "status": "normal"
+        },
+        {
+          "id": 2,
+          "name": "North Harbor",
+          "lat": 13.0033,
+          "lng": 80.255,
+          "traffic": 35,
+          "status": "normal"
+        },
+        {
+          "id": 3,
+          "name": "Tech Park",
+          "lat": 13.085,
+          "lng": 80.2101,
+          "traffic": 100,
+          "status": "incident"
+        },
+        {
+          "id": 4,
+          "name": "Riverside",
+          "lat": 12.9796,
+          "lng": 80.2185,
+          "traffic": 44,
+          "status": "normal"
+        },
+        {
+          "id": 5,
+          "name": "Southern Hub",
+          "lat": 12.8913,
+          "lng": 80.2241,
+          "traffic": 53,
+          "status": "normal"
+        }
+      ],
+      "timestamp": "12:37:59 pm",
+      "id": 1782284879387
+    },
+    {
+      "traffic": 52,
+      "weather": "Sunny",
+      "temperature": 28,
+      "humidity": 49,
+      "airQualityIndex": 61,
+      "pollutionLevel": "Good",
+      "alert": "All systems operational",
+      "allAlerts": [],
+      "events": [],
+      "markers": [
+        {
+          "id": 1,
+          "name": "Central District",
+          "lat": 13.0418,
+          "lng": 80.2341,
+          "traffic": 39,
+          "status": "normal"
+        },
+        {
+          "id": 2,
+          "name": "North Harbor",
+          "lat": 13.0033,
+          "lng": 80.255,
+          "traffic": 32,
+          "status": "normal"
+        },
+        {
+          "id": 3,
+          "name": "Tech Park",
+          "lat": 13.085,
+          "lng": 80.2101,
+          "traffic": 100,
+          "status": "incident"
+        },
+        {
+          "id": 4,
+          "name": "Riverside",
+          "lat": 12.9796,
+          "lng": 80.2185,
+          "traffic": 37,
+          "status": "normal"
+        },
+        {
+          "id": 5,
+          "name": "Southern Hub",
+          "lat": 12.8913,
+          "lng": 80.2241,
+          "traffic": 46,
+          "status": "normal"
+        }
+      ],
+      "timestamp": "12:38:04 pm",
+      "id": 1782284884397
+    },
+    {
+      "traffic": 54,
+      "weather": "Rain",
+      "temperature": 31,
+      "humidity": 56,
+      "airQualityIndex": 74,
+      "pollutionLevel": "Good",
+      "alert": "Weather delay risk alert",
+      "allAlerts": [
+        "Weather delay risk alert"
+      ],
+      "events": [],
+      "markers": [
+        {
+          "id": 1,
+          "name": "Central District",
+          "lat": 13.0418,
+          "lng": 80.2341,
+          "traffic": 42,
+          "status": "normal"
+        },
+        {
+          "id": 2,
+          "name": "North Harbor",
+          "lat": 13.0033,
+          "lng": 80.255,
+          "traffic": 35,
+          "status": "normal"
+        },
+        {
+          "id": 3,
+          "name": "Tech Park",
+          "lat": 13.085,
+          "lng": 80.2101,
+          "traffic": 100,
+          "status": "incident"
+        },
+        {
+          "id": 4,
+          "name": "Riverside",
+          "lat": 12.9796,
+          "lng": 80.2185,
+          "traffic": 39,
+          "status": "normal"
+        },
+        {
+          "id": 5,
+          "name": "Southern Hub",
+          "lat": 12.8913,
+          "lng": 80.2241,
+          "traffic": 50,
+          "status": "normal"
+        }
+      ],
+      "timestamp": "12:38:09 pm",
+      "id": 1782284889401
+    },
+    {
+      "traffic": 51,
+      "weather": "Sunny",
+      "temperature": 36,
+      "humidity": 59,
+      "airQualityIndex": 67,
+      "pollutionLevel": "Good",
+      "alert": "Heatwave warnings active",
+      "allAlerts": [
+        "Heatwave warnings active"
+      ],
+      "events": [],
+      "markers": [
+        {
+          "id": 1,
+          "name": "Central District",
+          "lat": 13.0418,
+          "lng": 80.2341,
+          "traffic": 35,
+          "status": "normal"
+        },
+        {
+          "id": 2,
+          "name": "North Harbor",
+          "lat": 13.0033,
+          "lng": 80.255,
+          "traffic": 37,
+          "status": "normal"
+        },
+        {
+          "id": 3,
+          "name": "Tech Park",
+          "lat": 13.085,
+          "lng": 80.2101,
+          "traffic": 93,
+          "status": "incident"
+        },
+        {
+          "id": 4,
+          "name": "Riverside",
+          "lat": 12.9796,
+          "lng": 80.2185,
+          "traffic": 34,
+          "status": "normal"
+        },
+        {
+          "id": 5,
+          "name": "Southern Hub",
+          "lat": 12.8913,
+          "lng": 80.2241,
+          "traffic": 47,
+          "status": "normal"
+        }
+      ],
+      "timestamp": "12:38:14 pm",
+      "id": 1782284894411
+    },
+    {
+      "traffic": 44,
+      "weather": "Cloudy",
+      "temperature": 26,
+      "humidity": 74,
+      "airQualityIndex": 58,
+      "pollutionLevel": "Good",
+      "alert": "All systems operational",
+      "allAlerts": [],
+      "events": [
+        "Festival"
+      ],
+      "markers": [
+        {
+          "id": 1,
+          "name": "Central District",
+          "lat": 13.0418,
+          "lng": 80.2341,
+          "traffic": 29,
+          "status": "normal"
+        },
+        {
+          "id": 2,
+          "name": "North Harbor",
+          "lat": 13.0033,
+          "lng": 80.255,
+          "traffic": 33,
+          "status": "normal"
+        },
+        {
+          "id": 3,
+          "name": "Tech Park",
+          "lat": 13.085,
+          "lng": 80.2101,
+          "traffic": 90,
+          "status": "incident"
+        },
+        {
+          "id": 4,
+          "name": "Riverside",
+          "lat": 12.9796,
+          "lng": 80.2185,
+          "traffic": 26,
+          "status": "normal"
+        },
+        {
+          "id": 5,
+          "name": "Southern Hub",
+          "lat": 12.8913,
+          "lng": 80.2241,
+          "traffic": 50,
+          "status": "normal"
+        }
+      ],
+      "timestamp": "12:38:19 pm",
+      "id": 1782284899411
+    },
+    {
+      "traffic": 37,
+      "weather": "Cloudy",
+      "temperature": 30,
+      "humidity": 58,
+      "airQualityIndex": 46,
+      "pollutionLevel": "Good",
+      "alert": "Minor accident reported near Riverside node",
+      "allAlerts": [
+        "Minor accident reported near Riverside node"
+      ],
+      "events": [],
+      "markers": [
+        {
+          "id": 1,
+          "name": "Central District",
+          "lat": 13.0418,
+          "lng": 80.2341,
+          "traffic": 21,
+          "status": "normal"
+        },
+        {
+          "id": 2,
+          "name": "North Harbor",
+          "lat": 13.0033,
+          "lng": 80.255,
+          "traffic": 30,
+          "status": "normal"
+        },
+        {
+          "id": 3,
+          "name": "Tech Park",
+          "lat": 13.085,
+          "lng": 80.2101,
+          "traffic": 91,
+          "status": "incident"
+        },
+        {
+          "id": 4,
+          "name": "Riverside",
+          "lat": 12.9796,
+          "lng": 80.2185,
+          "traffic": 22,
+          "status": "normal"
+        },
+        {
+          "id": 5,
+          "name": "Southern Hub",
+          "lat": 12.8913,
+          "lng": 80.2241,
+          "traffic": 47,
+          "status": "normal"
+        }
+      ],
+      "timestamp": "12:38:24 pm",
+      "id": 1782284904423
+    },
+    {
+      "traffic": 59,
+      "weather": "Rain",
+      "temperature": 29,
+      "humidity": 67,
+      "airQualityIndex": 78,
+      "pollutionLevel": "Moderate",
+      "alert": "Weather delay risk alert",
+      "allAlerts": [
+        "Weather delay risk alert"
+      ],
+      "events": [
+        "Roadwork"
+      ],
+      "markers": [
+        {
+          "id": 1,
+          "name": "Central District",
+          "lat": 13.0418,
+          "lng": 80.2341,
+          "traffic": 15,
+          "status": "normal"
+        },
+        {
+          "id": 2,
+          "name": "North Harbor",
+          "lat": 13.0033,
+          "lng": 80.255,
+          "traffic": 29,
+          "status": "normal"
+        },
+        {
+          "id": 3,
+          "name": "Tech Park",
+          "lat": 13.085,
+          "lng": 80.2101,
+          "traffic": 88,
+          "status": "incident"
+        },
+        {
+          "id": 4,
+          "name": "Riverside",
+          "lat": 12.9796,
+          "lng": 80.2185,
+          "traffic": 30,
+          "status": "normal"
+        },
+        {
+          "id": 5,
+          "name": "Southern Hub",
+          "lat": 12.8913,
+          "lng": 80.2241,
+          "traffic": 50,
+          "status": "normal"
+        }
+      ],
+      "timestamp": "12:38:29 pm",
+      "id": 1782284909418
+    },
+    {
+      "traffic": 48,
+      "weather": "Sunny",
+      "temperature": 24,
+      "humidity": 83,
+      "airQualityIndex": 58,
+      "pollutionLevel": "Good",
+      "alert": "All systems operational",
+      "allAlerts": [],
+      "events": [],
+      "markers": [
+        {
+          "id": 1,
+          "name": "Central District",
+          "lat": 13.0418,
+          "lng": 80.2341,
+          "traffic": 15,
+          "status": "normal"
+        },
+        {
+          "id": 2,
+          "name": "North Harbor",
+          "lat": 13.0033,
+          "lng": 80.255,
+          "traffic": 28,
+          "status": "normal"
+        },
+        {
+          "id": 3,
+          "name": "Tech Park",
+          "lat": 13.085,
+          "lng": 80.2101,
+          "traffic": 94,
+          "status": "incident"
+        },
+        {
+          "id": 4,
+          "name": "Riverside",
+          "lat": 12.9796,
+          "lng": 80.2185,
+          "traffic": 22,
+          "status": "normal"
+        },
+        {
+          "id": 5,
+          "name": "Southern Hub",
+          "lat": 12.8913,
+          "lng": 80.2241,
+          "traffic": 52,
+          "status": "normal"
+        }
+      ],
+      "timestamp": "12:38:34 pm",
+      "id": 1782284914428
+    },
+    {
+      "traffic": 46,
+      "weather": "Sunny",
+      "temperature": 27,
+      "humidity": 46,
+      "airQualityIndex": 61,
+      "pollutionLevel": "Good",
+      "alert": "All systems operational",
+      "allAlerts": [],
+      "events": [],
+      "markers": [
+        {
+          "id": 1,
+          "name": "Central District",
+          "lat": 13.0418,
+          "lng": 80.2341,
+          "traffic": 20,
+          "status": "normal"
+        },
+        {
+          "id": 2,
+          "name": "North Harbor",
+          "lat": 13.0033,
+          "lng": 80.255,
+          "traffic": 25,
+          "status": "normal"
+        },
+        {
+          "id": 3,
+          "name": "Tech Park",
+          "lat": 13.085,
+          "lng": 80.2101,
+          "traffic": 88,
+          "status": "incident"
+        },
+        {
+          "id": 4,
+          "name": "Riverside",
+          "lat": 12.9796,
+          "lng": 80.2185,
+          "traffic": 30,
+          "status": "normal"
+        },
+        {
+          "id": 5,
+          "name": "Southern Hub",
+          "lat": 12.8913,
+          "lng": 80.2241,
+          "traffic": 58,
+          "status": "traffic"
+        }
+      ],
+      "timestamp": "12:38:39 pm",
+      "id": 1782284919443
+    },
+    {
+      "traffic": 41,
+      "weather": "Sunny",
+      "temperature": 24,
+      "humidity": 77,
+      "airQualityIndex": 47,
+      "pollutionLevel": "Good",
+      "alert": "All systems operational",
+      "allAlerts": [],
+      "events": [
+        "VIP Movement"
+      ],
+      "markers": [
+        {
+          "id": 1,
+          "name": "Central District",
+          "lat": 13.0418,
+          "lng": 80.2341,
+          "traffic": 25,
+          "status": "normal"
+        },
+        {
+          "id": 2,
+          "name": "North Harbor",
+          "lat": 13.0033,
+          "lng": 80.255,
+          "traffic": 23,
+          "status": "normal"
+        },
+        {
+          "id": 3,
+          "name": "Tech Park",
+          "lat": 13.085,
+          "lng": 80.2101,
+          "traffic": 88,
+          "status": "incident"
+        },
+        {
+          "id": 4,
+          "name": "Riverside",
+          "lat": 12.9796,
+          "lng": 80.2185,
+          "traffic": 28,
+          "status": "normal"
+        },
+        {
+          "id": 5,
+          "name": "Southern Hub",
+          "lat": 12.8913,
+          "lng": 80.2241,
+          "traffic": 58,
+          "status": "traffic"
+        }
+      ],
+      "timestamp": "12:38:44 pm",
+      "id": 1782284924451
+    },
+    {
+      "traffic": 59,
+      "weather": "Sunny",
+      "temperature": 32,
+      "humidity": 69,
+      "airQualityIndex": 69,
+      "pollutionLevel": "Good",
+      "alert": "All systems operational",
+      "allAlerts": [],
+      "events": [],
+      "markers": [
+        {
+          "id": 1,
+          "name": "Central District",
+          "lat": 13.0418,
+          "lng": 80.2341,
+          "traffic": 22,
+          "status": "normal"
+        },
+        {
+          "id": 2,
+          "name": "North Harbor",
+          "lat": 13.0033,
+          "lng": 80.255,
+          "traffic": 28,
+          "status": "normal"
+        },
+        {
+          "id": 3,
+          "name": "Tech Park",
+          "lat": 13.085,
+          "lng": 80.2101,
+          "traffic": 82,
+          "status": "incident"
+        },
+        {
+          "id": 4,
+          "name": "Riverside",
+          "lat": 12.9796,
+          "lng": 80.2185,
+          "traffic": 31,
+          "status": "normal"
+        },
+        {
+          "id": 5,
+          "name": "Southern Hub",
+          "lat": 12.8913,
+          "lng": 80.2241,
+          "traffic": 56,
+          "status": "traffic"
+        }
+      ],
+      "timestamp": "12:38:49 pm",
+      "id": 1782284929457
+    },
+    {
+      "traffic": 49,
+      "weather": "Sunny",
+      "temperature": 36,
+      "humidity": 66,
+      "airQualityIndex": 54,
+      "pollutionLevel": "Good",
+      "alert": "Heatwave warnings active",
+      "allAlerts": [
+        "Heatwave warnings active"
+      ],
+      "events": [
+        "VIP Movement"
+      ],
+      "markers": [
+        {
+          "id": 1,
+          "name": "Central District",
+          "lat": 13.0418,
+          "lng": 80.2341,
+          "traffic": 22,
+          "status": "normal"
+        },
+        {
+          "id": 2,
+          "name": "North Harbor",
+          "lat": 13.0033,
+          "lng": 80.255,
+          "traffic": 24,
+          "status": "normal"
+        },
+        {
+          "id": 3,
+          "name": "Tech Park",
+          "lat": 13.085,
+          "lng": 80.2101,
+          "traffic": 80,
+          "status": "traffic"
+        },
+        {
+          "id": 4,
+          "name": "Riverside",
+          "lat": 12.9796,
+          "lng": 80.2185,
+          "traffic": 39,
+          "status": "normal"
+        },
+        {
+          "id": 5,
+          "name": "Southern Hub",
+          "lat": 12.8913,
+          "lng": 80.2241,
+          "traffic": 62,
+          "status": "traffic"
+        }
+      ],
+      "timestamp": "12:38:54 pm",
+      "id": 1782284934457
+    },
+    {
+      "traffic": 38,
+      "weather": "Rain",
+      "temperature": 28,
+      "humidity": 85,
+      "airQualityIndex": 48,
+      "pollutionLevel": "Good",
+      "alert": "Weather delay risk alert",
+      "allAlerts": [
+        "Weather delay risk alert"
+      ],
+      "events": [],
+      "markers": [
+        {
+          "id": 1,
+          "name": "Central District",
+          "lat": 13.0418,
+          "lng": 80.2341,
+          "traffic": 18,
+          "status": "normal"
+        },
+        {
+          "id": 2,
+          "name": "North Harbor",
+          "lat": 13.0033,
+          "lng": 80.255,
+          "traffic": 20,
+          "status": "normal"
+        },
+        {
+          "id": 3,
+          "name": "Tech Park",
+          "lat": 13.085,
+          "lng": 80.2101,
+          "traffic": 76,
+          "status": "traffic"
+        },
+        {
+          "id": 4,
+          "name": "Riverside",
+          "lat": 12.9796,
+          "lng": 80.2185,
+          "traffic": 38,
+          "status": "normal"
+        },
+        {
+          "id": 5,
+          "name": "Southern Hub",
+          "lat": 12.8913,
+          "lng": 80.2241,
+          "traffic": 59,
+          "status": "traffic"
+        }
+      ],
+      "timestamp": "12:38:59 pm",
+      "id": 1782284939466
+    },
+    {
+      "traffic": 59,
+      "weather": "Cloudy",
+      "temperature": 32,
+      "humidity": 60,
+      "airQualityIndex": 69,
+      "pollutionLevel": "Good",
+      "alert": "All systems operational",
+      "allAlerts": [],
+      "events": [],
+      "markers": [
+        {
+          "id": 1,
+          "name": "Central District",
+          "lat": 13.0418,
+          "lng": 80.2341,
+          "traffic": 15,
+          "status": "normal"
+        },
+        {
+          "id": 2,
+          "name": "North Harbor",
+          "lat": 13.0033,
+          "lng": 80.255,
+          "traffic": 22,
+          "status": "normal"
+        },
+        {
+          "id": 3,
+          "name": "Tech Park",
+          "lat": 13.085,
+          "lng": 80.2101,
+          "traffic": 81,
+          "status": "incident"
+        },
+        {
+          "id": 4,
+          "name": "Riverside",
+          "lat": 12.9796,
+          "lng": 80.2185,
+          "traffic": 45,
+          "status": "normal"
+        },
+        {
+          "id": 5,
+          "name": "Southern Hub",
+          "lat": 12.8913,
+          "lng": 80.2241,
+          "traffic": 66,
+          "status": "traffic"
+        }
+      ],
+      "timestamp": "12:39:04 pm",
+      "id": 1782284944481
+    },
+    {
+      "traffic": 48,
+      "weather": "Sunny",
+      "temperature": 34,
+      "humidity": 80,
+      "airQualityIndex": 55,
+      "pollutionLevel": "Good",
+      "alert": "All systems operational",
+      "allAlerts": [],
+      "events": [],
+      "markers": [
+        {
+          "id": 1,
+          "name": "Central District",
+          "lat": 13.0418,
+          "lng": 80.2341,
+          "traffic": 15,
+          "status": "normal"
+        },
+        {
+          "id": 2,
+          "name": "North Harbor",
+          "lat": 13.0033,
+          "lng": 80.255,
+          "traffic": 23,
+          "status": "normal"
+        },
+        {
+          "id": 3,
+          "name": "Tech Park",
+          "lat": 13.085,
+          "lng": 80.2101,
+          "traffic": 85,
+          "status": "incident"
+        },
+        {
+          "id": 4,
+          "name": "Riverside",
+          "lat": 12.9796,
+          "lng": 80.2185,
+          "traffic": 52,
+          "status": "normal"
+        },
+        {
+          "id": 5,
+          "name": "Southern Hub",
+          "lat": 12.8913,
+          "lng": 80.2241,
+          "traffic": 58,
+          "status": "traffic"
+        }
+      ],
+      "timestamp": "12:39:09 pm",
+      "id": 1782284949492
+    },
+    {
+      "traffic": 48,
+      "weather": "Sunny",
+      "temperature": 28,
+      "humidity": 64,
+      "airQualityIndex": 58,
+      "pollutionLevel": "Good",
+      "alert": "All systems operational",
+      "allAlerts": [],
+      "events": [],
+      "markers": [
+        {
+          "id": 1,
+          "name": "Central District",
+          "lat": 13.0418,
+          "lng": 80.2341,
+          "traffic": 15,
+          "status": "normal"
+        },
+        {
+          "id": 2,
+          "name": "North Harbor",
+          "lat": 13.0033,
+          "lng": 80.255,
+          "traffic": 18,
+          "status": "normal"
+        },
+        {
+          "id": 3,
+          "name": "Tech Park",
+          "lat": 13.085,
+          "lng": 80.2101,
+          "traffic": 86,
+          "status": "incident"
+        },
+        {
+          "id": 4,
+          "name": "Riverside",
+          "lat": 12.9796,
+          "lng": 80.2185,
+          "traffic": 44,
+          "status": "normal"
+        },
+        {
+          "id": 5,
+          "name": "Southern Hub",
+          "lat": 12.8913,
+          "lng": 80.2241,
+          "traffic": 52,
+          "status": "normal"
+        }
+      ],
+      "timestamp": "12:39:14 pm",
+      "id": 1782284954502
+    },
+    {
+      "traffic": 40,
+      "weather": "Rain",
+      "temperature": 33,
+      "humidity": 76,
+      "airQualityIndex": 45,
+      "pollutionLevel": "Good",
+      "alert": "Weather delay risk alert",
+      "allAlerts": [
+        "Weather delay risk alert",
+        "Minor accident reported near Riverside node"
+      ],
+      "events": [],
+      "markers": [
+        {
+          "id": 1,
+          "name": "Central District",
+          "lat": 13.0418,
+          "lng": 80.2341,
+          "traffic": 15,
+          "status": "normal"
+        },
+        {
+          "id": 2,
+          "name": "North Harbor",
+          "lat": 13.0033,
+          "lng": 80.255,
+          "traffic": 15,
+          "status": "normal"
+        },
+        {
+          "id": 3,
+          "name": "Tech Park",
+          "lat": 13.085,
+          "lng": 80.2101,
+          "traffic": 86,
+          "status": "incident"
+        },
+        {
+          "id": 4,
+          "name": "Riverside",
+          "lat": 12.9796,
+          "lng": 80.2185,
+          "traffic": 46,
+          "status": "normal"
+        },
+        {
+          "id": 5,
+          "name": "Southern Hub",
+          "lat": 12.8913,
+          "lng": 80.2241,
+          "traffic": 44,
+          "status": "normal"
+        }
+      ],
+      "timestamp": "12:39:19 pm",
+      "id": 1782284959512
+    },
+    {
+      "traffic": 37,
+      "weather": "Cloudy",
+      "temperature": 30,
+      "humidity": 75,
+      "airQualityIndex": 37,
+      "pollutionLevel": "Good",
+      "alert": "All systems operational",
+      "allAlerts": [],
+      "events": [],
+      "markers": [
+        {
+          "id": 1,
+          "name": "Central District",
+          "lat": 13.0418,
+          "lng": 80.2341,
+          "traffic": 15,
+          "status": "normal"
+        },
+        {
+          "id": 2,
+          "name": "North Harbor",
+          "lat": 13.0033,
+          "lng": 80.255,
+          "traffic": 19,
+          "status": "normal"
+        },
+        {
+          "id": 3,
+          "name": "Tech Park",
+          "lat": 13.085,
+          "lng": 80.2101,
+          "traffic": 86,
+          "status": "incident"
+        },
+        {
+          "id": 4,
+          "name": "Riverside",
+          "lat": 12.9796,
+          "lng": 80.2185,
+          "traffic": 44,
+          "status": "normal"
+        },
+        {
+          "id": 5,
+          "name": "Southern Hub",
+          "lat": 12.8913,
+          "lng": 80.2241,
+          "traffic": 45,
+          "status": "normal"
+        }
+      ],
+      "timestamp": "12:39:24 pm",
+      "id": 1782284964528
+    },
+    {
+      "traffic": 48,
+      "weather": "Cloudy",
+      "temperature": 27,
+      "humidity": 51,
+      "airQualityIndex": 49,
+      "pollutionLevel": "Good",
+      "alert": "All systems operational",
+      "allAlerts": [],
+      "events": [
+        "VIP Movement"
+      ],
+      "markers": [
+        {
+          "id": 1,
+          "name": "Central District",
+          "lat": 13.0418,
+          "lng": 80.2341,
+          "traffic": 21,
+          "status": "normal"
+        },
+        {
+          "id": 2,
+          "name": "North Harbor",
+          "lat": 13.0033,
+          "lng": 80.255,
+          "traffic": 15,
+          "status": "normal"
+        },
+        {
+          "id": 3,
+          "name": "Tech Park",
+          "lat": 13.085,
+          "lng": 80.2101,
+          "traffic": 82,
+          "status": "incident"
+        },
+        {
+          "id": 4,
+          "name": "Riverside",
+          "lat": 12.9796,
+          "lng": 80.2185,
+          "traffic": 51,
+          "status": "normal"
+        },
+        {
+          "id": 5,
+          "name": "Southern Hub",
+          "lat": 12.8913,
+          "lng": 80.2241,
+          "traffic": 41,
+          "status": "normal"
+        }
+      ],
+      "timestamp": "12:39:29 pm",
+      "id": 1782284969534
+    },
+    {
+      "traffic": 41,
+      "weather": "Rain",
+      "temperature": 22,
+      "humidity": 64,
+      "airQualityIndex": 42,
+      "pollutionLevel": "Good",
+      "alert": "Weather delay risk alert",
+      "allAlerts": [
+        "Weather delay risk alert",
+        "Minor accident reported near Riverside node"
+      ],
+      "events": [],
+      "markers": [
+        {
+          "id": 1,
+          "name": "Central District",
+          "lat": 13.0418,
+          "lng": 80.2341,
+          "traffic": 18,
+          "status": "normal"
+        },
+        {
+          "id": 2,
+          "name": "North Harbor",
+          "lat": 13.0033,
+          "lng": 80.255,
+          "traffic": 19,
+          "status": "normal"
+        },
+        {
+          "id": 3,
+          "name": "Tech Park",
+          "lat": 13.085,
+          "lng": 80.2101,
+          "traffic": 86,
+          "status": "incident"
+        },
+        {
+          "id": 4,
+          "name": "Riverside",
+          "lat": 12.9796,
+          "lng": 80.2185,
+          "traffic": 56,
+          "status": "traffic"
+        },
+        {
+          "id": 5,
+          "name": "Southern Hub",
+          "lat": 12.8913,
+          "lng": 80.2241,
+          "traffic": 33,
+          "status": "normal"
+        }
+      ],
+      "timestamp": "12:39:34 pm",
+      "id": 1782284974544
+    },
+    {
+      "traffic": 45,
+      "weather": "Cloudy",
+      "temperature": 24,
+      "humidity": 74,
+      "airQualityIndex": 58,
+      "pollutionLevel": "Good",
+      "alert": "All systems operational",
+      "allAlerts": [],
+      "events": [],
+      "markers": [
+        {
+          "id": 1,
+          "name": "Central District",
+          "lat": 13.0418,
+          "lng": 80.2341,
+          "traffic": 15,
+          "status": "normal"
+        },
+        {
+          "id": 2,
+          "name": "North Harbor",
+          "lat": 13.0033,
+          "lng": 80.255,
+          "traffic": 15,
+          "status": "normal"
+        },
+        {
+          "id": 3,
+          "name": "Tech Park",
+          "lat": 13.085,
+          "lng": 80.2101,
+          "traffic": 94,
+          "status": "incident"
+        },
+        {
+          "id": 4,
+          "name": "Riverside",
+          "lat": 12.9796,
+          "lng": 80.2185,
+          "traffic": 59,
+          "status": "traffic"
+        },
+        {
+          "id": 5,
+          "name": "Southern Hub",
+          "lat": 12.8913,
+          "lng": 80.2241,
+          "traffic": 27,
+          "status": "normal"
+        }
+      ],
+      "timestamp": "12:39:39 pm",
+      "id": 1782284979548
+    },
+    {
+      "traffic": 54,
+      "weather": "Sunny",
+      "temperature": 30,
+      "humidity": 52,
+      "airQualityIndex": 72,
+      "pollutionLevel": "Good",
+      "alert": "All systems operational",
+      "allAlerts": [],
+      "events": [],
+      "markers": [
+        {
+          "id": 1,
+          "name": "Central District",
+          "lat": 13.0418,
+          "lng": 80.2341,
+          "traffic": 15,
+          "status": "normal"
+        },
+        {
+          "id": 2,
+          "name": "North Harbor",
+          "lat": 13.0033,
+          "lng": 80.255,
+          "traffic": 15,
+          "status": "normal"
+        },
+        {
+          "id": 3,
+          "name": "Tech Park",
+          "lat": 13.085,
+          "lng": 80.2101,
+          "traffic": 100,
+          "status": "incident"
+        },
+        {
+          "id": 4,
+          "name": "Riverside",
+          "lat": 12.9796,
+          "lng": 80.2185,
+          "traffic": 55,
+          "status": "normal"
+        },
+        {
+          "id": 5,
+          "name": "Southern Hub",
+          "lat": 12.8913,
+          "lng": 80.2241,
+          "traffic": 25,
+          "status": "normal"
+        }
+      ],
+      "timestamp": "12:39:44 pm",
+      "id": 1782284984557
+    },
+    {
+      "traffic": 38,
+      "weather": "Cloudy",
+      "temperature": 23,
+      "humidity": 73,
+      "airQualityIndex": 45,
+      "pollutionLevel": "Good",
+      "alert": "All systems operational",
+      "allAlerts": [],
+      "events": [],
+      "markers": [
+        {
+          "id": 1,
+          "name": "Central District",
+          "lat": 13.0418,
+          "lng": 80.2341,
+          "traffic": 15,
+          "status": "normal"
+        },
+        {
+          "id": 2,
+          "name": "North Harbor",
+          "lat": 13.0033,
+          "lng": 80.255,
+          "traffic": 15,
+          "status": "normal"
+        },
+        {
+          "id": 3,
+          "name": "Tech Park",
+          "lat": 13.085,
+          "lng": 80.2101,
+          "traffic": 99,
+          "status": "incident"
+        },
+        {
+          "id": 4,
+          "name": "Riverside",
+          "lat": 12.9796,
+          "lng": 80.2185,
+          "traffic": 53,
+          "status": "normal"
+        },
+        {
+          "id": 5,
+          "name": "Southern Hub",
+          "lat": 12.8913,
+          "lng": 80.2241,
+          "traffic": 33,
+          "status": "normal"
+        }
+      ],
+      "timestamp": "12:39:49 pm",
+      "id": 1782284989564
+    },
+    {
+      "traffic": 50,
+      "weather": "Cloudy",
+      "temperature": 32,
+      "humidity": 47,
+      "airQualityIndex": 50,
+      "pollutionLevel": "Good",
+      "alert": "All systems operational",
+      "allAlerts": [],
+      "events": [],
+      "markers": [
+        {
+          "id": 1,
+          "name": "Central District",
+          "lat": 13.0418,
+          "lng": 80.2341,
+          "traffic": 23,
+          "status": "normal"
+        },
+        {
+          "id": 2,
+          "name": "North Harbor",
+          "lat": 13.0033,
+          "lng": 80.255,
+          "traffic": 15,
+          "status": "normal"
+        },
+        {
+          "id": 3,
+          "name": "Tech Park",
+          "lat": 13.085,
+          "lng": 80.2101,
+          "traffic": 98,
+          "status": "incident"
+        },
+        {
+          "id": 4,
+          "name": "Riverside",
+          "lat": 12.9796,
+          "lng": 80.2185,
+          "traffic": 45,
+          "status": "normal"
+        },
+        {
+          "id": 5,
+          "name": "Southern Hub",
+          "lat": 12.8913,
+          "lng": 80.2241,
+          "traffic": 30,
+          "status": "normal"
+        }
+      ],
+      "timestamp": "12:39:54 pm",
+      "id": 1782284994566
+    },
+    {
+      "traffic": 60,
+      "weather": "Cloudy",
+      "temperature": 23,
+      "humidity": 65,
+      "airQualityIndex": 82,
+      "pollutionLevel": "Moderate",
+      "alert": "All systems operational",
+      "allAlerts": [],
+      "events": [],
+      "markers": [
+        {
+          "id": 1,
+          "name": "Central District",
+          "lat": 13.0418,
+          "lng": 80.2341,
+          "traffic": 30,
+          "status": "normal"
+        },
+        {
+          "id": 2,
+          "name": "North Harbor",
+          "lat": 13.0033,
+          "lng": 80.255,
+          "traffic": 15,
+          "status": "normal"
+        },
+        {
+          "id": 3,
+          "name": "Tech Park",
+          "lat": 13.085,
+          "lng": 80.2101,
+          "traffic": 92,
+          "status": "incident"
+        },
+        {
+          "id": 4,
+          "name": "Riverside",
+          "lat": 12.9796,
+          "lng": 80.2185,
+          "traffic": 46,
+          "status": "normal"
+        },
+        {
+          "id": 5,
+          "name": "Southern Hub",
+          "lat": 12.8913,
+          "lng": 80.2241,
+          "traffic": 25,
+          "status": "normal"
+        }
+      ],
+      "timestamp": "12:39:59 pm",
+      "id": 1782284999576
+    },
+    {
+      "traffic": 52,
+      "weather": "Sunny",
+      "temperature": 35,
+      "humidity": 73,
+      "airQualityIndex": 72,
+      "pollutionLevel": "Good",
+      "alert": "All systems operational",
+      "allAlerts": [],
+      "events": [],
+      "markers": [
+        {
+          "id": 1,
+          "name": "Central District",
+          "lat": 13.0418,
+          "lng": 80.2341,
+          "traffic": 29,
+          "status": "normal"
+        },
+        {
+          "id": 2,
+          "name": "North Harbor",
+          "lat": 13.0033,
+          "lng": 80.255,
+          "traffic": 15,
+          "status": "normal"
+        },
+        {
+          "id": 3,
+          "name": "Tech Park",
+          "lat": 13.085,
+          "lng": 80.2101,
+          "traffic": 90,
+          "status": "incident"
+        },
+        {
+          "id": 4,
+          "name": "Riverside",
+          "lat": 12.9796,
+          "lng": 80.2185,
+          "traffic": 38,
+          "status": "normal"
+        },
+        {
+          "id": 5,
+          "name": "Southern Hub",
+          "lat": 12.8913,
+          "lng": 80.2241,
+          "traffic": 17,
+          "status": "normal"
+        }
+      ],
+      "timestamp": "12:40:04 pm",
+      "id": 1782285004585
+    },
+    {
+      "traffic": 47,
+      "weather": "Cloudy",
+      "temperature": 28,
+      "humidity": 67,
+      "airQualityIndex": 61,
+      "pollutionLevel": "Good",
+      "alert": "All systems operational",
+      "allAlerts": [],
+      "events": [],
+      "markers": [
+        {
+          "id": 1,
+          "name": "Central District",
+          "lat": 13.0418,
+          "lng": 80.2341,
+          "traffic": 29,
+          "status": "normal"
+        },
+        {
+          "id": 2,
+          "name": "North Harbor",
+          "lat": 13.0033,
+          "lng": 80.255,
+          "traffic": 19,
+          "status": "normal"
+        },
+        {
+          "id": 3,
+          "name": "Tech Park",
+          "lat": 13.085,
+          "lng": 80.2101,
+          "traffic": 92,
+          "status": "incident"
+        },
+        {
+          "id": 4,
+          "name": "Riverside",
+          "lat": 12.9796,
+          "lng": 80.2185,
+          "traffic": 30,
+          "status": "normal"
+        },
+        {
+          "id": 5,
+          "name": "Southern Hub",
+          "lat": 12.8913,
+          "lng": 80.2241,
+          "traffic": 16,
+          "status": "normal"
+        }
+      ],
+      "timestamp": "12:40:09 pm",
+      "id": 1782285009598
+    },
+    {
+      "traffic": 38,
+      "weather": "Cloudy",
+      "temperature": 36,
+      "humidity": 73,
+      "airQualityIndex": 38,
+      "pollutionLevel": "Good",
+      "alert": "Heatwave warnings active",
+      "allAlerts": [
+        "Heatwave warnings active",
+        "Minor accident reported near Riverside node"
+      ],
+      "events": [
+        "VIP Movement"
+      ],
+      "markers": [
+        {
+          "id": 1,
+          "name": "Central District",
+          "lat": 13.0418,
+          "lng": 80.2341,
+          "traffic": 24,
+          "status": "normal"
+        },
+        {
+          "id": 2,
+          "name": "North Harbor",
+          "lat": 13.0033,
+          "lng": 80.255,
+          "traffic": 15,
+          "status": "normal"
+        },
+        {
+          "id": 3,
+          "name": "Tech Park",
+          "lat": 13.085,
+          "lng": 80.2101,
+          "traffic": 99,
+          "status": "incident"
+        },
+        {
+          "id": 4,
+          "name": "Riverside",
+          "lat": 12.9796,
+          "lng": 80.2185,
+          "traffic": 24,
+          "status": "normal"
+        },
+        {
+          "id": 5,
+          "name": "Southern Hub",
+          "lat": 12.8913,
+          "lng": 80.2241,
+          "traffic": 15,
+          "status": "normal"
+        }
+      ],
+      "timestamp": "12:40:14 pm",
+      "id": 1782285014612
+    },
+    {
+      "traffic": 53,
+      "weather": "Rain",
+      "temperature": 29,
+      "humidity": 69,
+      "airQualityIndex": 58,
+      "pollutionLevel": "Good",
+      "alert": "Weather delay risk alert",
+      "allAlerts": [
+        "Weather delay risk alert"
+      ],
+      "events": [],
+      "markers": [
+        {
+          "id": 1,
+          "name": "Central District",
+          "lat": 13.0418,
+          "lng": 80.2341,
+          "traffic": 16,
+          "status": "normal"
+        },
+        {
+          "id": 2,
+          "name": "North Harbor",
+          "lat": 13.0033,
+          "lng": 80.255,
+          "traffic": 15,
+          "status": "normal"
+        },
+        {
+          "id": 3,
+          "name": "Tech Park",
+          "lat": 13.085,
+          "lng": 80.2101,
+          "traffic": 97,
+          "status": "incident"
+        },
+        {
+          "id": 4,
+          "name": "Riverside",
+          "lat": 12.9796,
+          "lng": 80.2185,
+          "traffic": 19,
+          "status": "normal"
+        },
+        {
+          "id": 5,
+          "name": "Southern Hub",
+          "lat": 12.8913,
+          "lng": 80.2241,
+          "traffic": 15,
+          "status": "normal"
+        }
+      ],
+      "timestamp": "12:40:19 pm",
+      "id": 1782285019625
+    },
+    {
+      "traffic": 36,
+      "weather": "Cloudy",
+      "temperature": 31,
+      "humidity": 48,
+      "airQualityIndex": 37,
+      "pollutionLevel": "Good",
+      "alert": "Minor accident reported near Riverside node",
+      "allAlerts": [
+        "Minor accident reported near Riverside node"
+      ],
+      "events": [],
+      "markers": [
+        {
+          "id": 1,
+          "name": "Central District",
+          "lat": 13.0418,
+          "lng": 80.2341,
+          "traffic": 15,
+          "status": "normal"
+        },
+        {
+          "id": 2,
+          "name": "North Harbor",
+          "lat": 13.0033,
+          "lng": 80.255,
+          "traffic": 16,
+          "status": "normal"
+        },
+        {
+          "id": 3,
+          "name": "Tech Park",
+          "lat": 13.085,
+          "lng": 80.2101,
+          "traffic": 90,
+          "status": "incident"
+        },
+        {
+          "id": 4,
+          "name": "Riverside",
+          "lat": 12.9796,
+          "lng": 80.2185,
+          "traffic": 15,
+          "status": "normal"
+        },
+        {
+          "id": 5,
+          "name": "Southern Hub",
+          "lat": 12.8913,
+          "lng": 80.2241,
+          "traffic": 21,
+          "status": "normal"
+        }
+      ],
+      "timestamp": "12:40:24 pm",
+      "id": 1782285024637
+    },
+    {
+      "traffic": 57,
+      "weather": "Cloudy",
+      "temperature": 22,
+      "humidity": 57,
+      "airQualityIndex": 77,
+      "pollutionLevel": "Moderate",
+      "alert": "All systems operational",
+      "allAlerts": [],
+      "events": [],
+      "markers": [
+        {
+          "id": 1,
+          "name": "Central District",
+          "lat": 13.0418,
+          "lng": 80.2341,
+          "traffic": 15,
+          "status": "normal"
+        },
+        {
+          "id": 2,
+          "name": "North Harbor",
+          "lat": 13.0033,
+          "lng": 80.255,
+          "traffic": 15,
+          "status": "normal"
+        },
+        {
+          "id": 3,
+          "name": "Tech Park",
+          "lat": 13.085,
+          "lng": 80.2101,
+          "traffic": 96,
+          "status": "incident"
+        },
+        {
+          "id": 4,
+          "name": "Riverside",
+          "lat": 12.9796,
+          "lng": 80.2185,
+          "traffic": 20,
+          "status": "normal"
+        },
+        {
+          "id": 5,
+          "name": "Southern Hub",
+          "lat": 12.8913,
+          "lng": 80.2241,
+          "traffic": 17,
+          "status": "normal"
+        }
+      ],
+      "timestamp": "12:40:29 pm",
+      "id": 1782285029631
+    },
+    {
+      "traffic": 36,
+      "weather": "Cloudy",
+      "temperature": 27,
+      "humidity": 52,
+      "airQualityIndex": 45,
+      "pollutionLevel": "Good",
+      "alert": "All systems operational",
+      "allAlerts": [],
+      "events": [],
+      "markers": [
+        {
+          "id": 1,
+          "name": "Central District",
+          "lat": 13.0418,
+          "lng": 80.2341,
+          "traffic": 15,
+          "status": "normal"
+        },
+        {
+          "id": 2,
+          "name": "North Harbor",
+          "lat": 13.0033,
+          "lng": 80.255,
+          "traffic": 15,
+          "status": "normal"
+        },
+        {
+          "id": 3,
+          "name": "Tech Park",
+          "lat": 13.085,
+          "lng": 80.2101,
+          "traffic": 88,
+          "status": "incident"
+        },
+        {
+          "id": 4,
+          "name": "Riverside",
+          "lat": 12.9796,
+          "lng": 80.2185,
+          "traffic": 24,
+          "status": "normal"
+        },
+        {
+          "id": 5,
+          "name": "Southern Hub",
+          "lat": 12.8913,
+          "lng": 80.2241,
+          "traffic": 23,
+          "status": "normal"
+        }
+      ],
+      "timestamp": "12:40:34 pm",
+      "id": 1782285034636
+    },
+    {
+      "traffic": 47,
+      "weather": "Cloudy",
+      "temperature": 29,
+      "humidity": 61,
+      "airQualityIndex": 53,
+      "pollutionLevel": "Good",
+      "alert": "All systems operational",
+      "allAlerts": [],
+      "events": [],
+      "markers": [
+        {
+          "id": 1,
+          "name": "Central District",
+          "lat": 13.0418,
+          "lng": 80.2341,
+          "traffic": 15,
+          "status": "normal"
+        },
+        {
+          "id": 2,
+          "name": "North Harbor",
+          "lat": 13.0033,
+          "lng": 80.255,
+          "traffic": 17,
+          "status": "normal"
+        },
+        {
+          "id": 3,
+          "name": "Tech Park",
+          "lat": 13.085,
+          "lng": 80.2101,
+          "traffic": 84,
+          "status": "incident"
+        },
+        {
+          "id": 4,
+          "name": "Riverside",
+          "lat": 12.9796,
+          "lng": 80.2185,
+          "traffic": 31,
+          "status": "normal"
+        },
+        {
+          "id": 5,
+          "name": "Southern Hub",
+          "lat": 12.8913,
+          "lng": 80.2241,
+          "traffic": 28,
+          "status": "normal"
+        }
+      ],
+      "timestamp": "12:40:39 pm",
+      "id": 1782285039637
+    },
+    {
+      "traffic": 37,
+      "weather": "Sunny",
+      "temperature": 33,
+      "humidity": 60,
+      "airQualityIndex": 39,
+      "pollutionLevel": "Good",
+      "alert": "All systems operational",
+      "allAlerts": [],
+      "events": [
+        "VIP Movement"
+      ],
+      "markers": [
+        {
+          "id": 1,
+          "name": "Central District",
+          "lat": 13.0418,
+          "lng": 80.2341,
+          "traffic": 15,
+          "status": "normal"
+        },
+        {
+          "id": 2,
+          "name": "North Harbor",
+          "lat": 13.0033,
+          "lng": 80.255,
+          "traffic": 20,
+          "status": "normal"
+        },
+        {
+          "id": 3,
+          "name": "Tech Park",
+          "lat": 13.085,
+          "lng": 80.2101,
+          "traffic": 82,
+          "status": "incident"
+        },
+        {
+          "id": 4,
+          "name": "Riverside",
+          "lat": 12.9796,
+          "lng": 80.2185,
+          "traffic": 27,
+          "status": "normal"
+        },
+        {
+          "id": 5,
+          "name": "Southern Hub",
+          "lat": 12.8913,
+          "lng": 80.2241,
+          "traffic": 34,
+          "status": "normal"
+        }
+      ],
+      "timestamp": "12:40:44 pm",
+      "id": 1782285044643
+    },
+    {
+      "traffic": 45,
+      "weather": "Rain",
+      "temperature": 29,
+      "humidity": 82,
+      "airQualityIndex": 49,
+      "pollutionLevel": "Good",
+      "alert": "Weather delay risk alert",
+      "allAlerts": [
+        "Weather delay risk alert",
+        "Minor accident reported near Riverside node"
+      ],
+      "events": [],
+      "markers": [
+        {
+          "id": 1,
+          "name": "Central District",
+          "lat": 13.0418,
+          "lng": 80.2341,
+          "traffic": 15,
+          "status": "normal"
+        },
+        {
+          "id": 2,
+          "name": "North Harbor",
+          "lat": 13.0033,
+          "lng": 80.255,
+          "traffic": 15,
+          "status": "normal"
+        },
+        {
+          "id": 3,
+          "name": "Tech Park",
+          "lat": 13.085,
+          "lng": 80.2101,
+          "traffic": 75,
+          "status": "traffic"
+        },
+        {
+          "id": 4,
+          "name": "Riverside",
+          "lat": 12.9796,
+          "lng": 80.2185,
+          "traffic": 19,
+          "status": "normal"
+        },
+        {
+          "id": 5,
+          "name": "Southern Hub",
+          "lat": 12.8913,
+          "lng": 80.2241,
+          "traffic": 29,
+          "status": "normal"
+        }
+      ],
+      "timestamp": "12:40:49 pm",
+      "id": 1782285049654
+    },
+    {
+      "traffic": 58,
+      "weather": "Rain",
+      "temperature": 25,
+      "humidity": 81,
+      "airQualityIndex": 62,
+      "pollutionLevel": "Good",
+      "alert": "Weather delay risk alert",
+      "allAlerts": [
+        "Weather delay risk alert"
+      ],
+      "events": [],
+      "markers": [
+        {
+          "id": 1,
+          "name": "Central District",
+          "lat": 13.0418,
+          "lng": 80.2341,
+          "traffic": 15,
+          "status": "normal"
+        },
+        {
+          "id": 2,
+          "name": "North Harbor",
+          "lat": 13.0033,
+          "lng": 80.255,
+          "traffic": 20,
+          "status": "normal"
+        },
+        {
+          "id": 3,
+          "name": "Tech Park",
+          "lat": 13.085,
+          "lng": 80.2101,
+          "traffic": 83,
+          "status": "incident"
+        },
+        {
+          "id": 4,
+          "name": "Riverside",
+          "lat": 12.9796,
+          "lng": 80.2185,
+          "traffic": 19,
+          "status": "normal"
+        },
+        {
+          "id": 5,
+          "name": "Southern Hub",
+          "lat": 12.8913,
+          "lng": 80.2241,
+          "traffic": 21,
+          "status": "normal"
+        }
+      ],
+      "timestamp": "12:40:54 pm",
+      "id": 1782285054654
+    },
+    {
+      "traffic": 46,
+      "weather": "Cloudy",
+      "temperature": 32,
+      "humidity": 48,
+      "airQualityIndex": 50,
+      "pollutionLevel": "Good",
+      "alert": "All systems operational",
+      "allAlerts": [],
+      "events": [
+        "VIP Movement"
+      ],
+      "markers": [
+        {
+          "id": 1,
+          "name": "Central District",
+          "lat": 13.0418,
+          "lng": 80.2341,
+          "traffic": 18,
+          "status": "normal"
+        },
+        {
+          "id": 2,
+          "name": "North Harbor",
+          "lat": 13.0033,
+          "lng": 80.255,
+          "traffic": 15,
+          "status": "normal"
+        },
+        {
+          "id": 3,
+          "name": "Tech Park",
+          "lat": 13.085,
+          "lng": 80.2101,
+          "traffic": 80,
+          "status": "traffic"
+        },
+        {
+          "id": 4,
+          "name": "Riverside",
+          "lat": 12.9796,
+          "lng": 80.2185,
+          "traffic": 18,
+          "status": "normal"
+        },
+        {
+          "id": 5,
+          "name": "Southern Hub",
+          "lat": 12.8913,
+          "lng": 80.2241,
+          "traffic": 24,
+          "status": "normal"
+        }
+      ],
+      "timestamp": "12:40:59 pm",
+      "id": 1782285059668
+    },
+    {
+      "traffic": 43,
+      "weather": "Sunny",
+      "temperature": 28,
+      "humidity": 66,
+      "airQualityIndex": 43,
+      "pollutionLevel": "Good",
+      "alert": "All systems operational",
+      "allAlerts": [],
+      "events": [],
+      "markers": [
+        {
+          "id": 1,
+          "name": "Central District",
+          "lat": 13.0418,
+          "lng": 80.2341,
+          "traffic": 22,
+          "status": "normal"
+        },
+        {
+          "id": 2,
+          "name": "North Harbor",
+          "lat": 13.0033,
+          "lng": 80.255,
+          "traffic": 16,
+          "status": "normal"
+        },
+        {
+          "id": 3,
+          "name": "Tech Park",
+          "lat": 13.085,
+          "lng": 80.2101,
+          "traffic": 78,
+          "status": "traffic"
+        },
+        {
+          "id": 4,
+          "name": "Riverside",
+          "lat": 12.9796,
+          "lng": 80.2185,
+          "traffic": 25,
+          "status": "normal"
+        },
+        {
+          "id": 5,
+          "name": "Southern Hub",
+          "lat": 12.8913,
+          "lng": 80.2241,
+          "traffic": 18,
+          "status": "normal"
+        }
+      ],
+      "timestamp": "12:41:04 pm",
+      "id": 1782285064671
+    },
+    {
+      "traffic": 53,
+      "weather": "Rain",
+      "temperature": 24,
+      "humidity": 49,
+      "airQualityIndex": 70,
+      "pollutionLevel": "Good",
+      "alert": "Weather delay risk alert",
+      "allAlerts": [
+        "Weather delay risk alert"
+      ],
+      "events": [],
+      "markers": [
+        {
+          "id": 1,
+          "name": "Central District",
+          "lat": 13.0418,
+          "lng": 80.2341,
+          "traffic": 16,
+          "status": "normal"
+        },
+        {
+          "id": 2,
+          "name": "North Harbor",
+          "lat": 13.0033,
+          "lng": 80.255,
+          "traffic": 19,
+          "status": "normal"
+        },
+        {
+          "id": 3,
+          "name": "Tech Park",
+          "lat": 13.085,
+          "lng": 80.2101,
+          "traffic": 72,
+          "status": "traffic"
+        },
+        {
+          "id": 4,
+          "name": "Riverside",
+          "lat": 12.9796,
+          "lng": 80.2185,
+          "traffic": 26,
+          "status": "normal"
+        },
+        {
+          "id": 5,
+          "name": "Southern Hub",
+          "lat": 12.8913,
+          "lng": 80.2241,
+          "traffic": 19,
+          "status": "normal"
+        }
+      ],
+      "timestamp": "12:41:09 pm",
+      "id": 1782285069677
+    },
+    {
+      "traffic": 36,
+      "weather": "Cloudy",
+      "temperature": 35,
+      "humidity": 45,
+      "airQualityIndex": 36,
+      "pollutionLevel": "Good",
+      "alert": "Minor accident reported near Riverside node",
+      "allAlerts": [
+        "Minor accident reported near Riverside node"
+      ],
+      "events": [
+        "Concert"
+      ],
+      "markers": [
+        {
+          "id": 1,
+          "name": "Central District",
+          "lat": 13.0418,
+          "lng": 80.2341,
+          "traffic": 15,
+          "status": "normal"
+        },
+        {
+          "id": 2,
+          "name": "North Harbor",
+          "lat": 13.0033,
+          "lng": 80.255,
+          "traffic": 27,
+          "status": "normal"
+        },
+        {
+          "id": 3,
+          "name": "Tech Park",
+          "lat": 13.085,
+          "lng": 80.2101,
+          "traffic": 72,
+          "status": "traffic"
+        },
+        {
+          "id": 4,
+          "name": "Riverside",
+          "lat": 12.9796,
+          "lng": 80.2185,
+          "traffic": 33,
+          "status": "normal"
+        },
+        {
+          "id": 5,
+          "name": "Southern Hub",
+          "lat": 12.8913,
+          "lng": 80.2241,
+          "traffic": 26,
+          "status": "normal"
+        }
+      ],
+      "timestamp": "12:41:14 pm",
+      "id": 1782285074691
+    },
+    {
+      "traffic": 38,
+      "weather": "Cloudy",
+      "temperature": 34,
+      "humidity": 84,
+      "airQualityIndex": 38,
+      "pollutionLevel": "Good",
+      "alert": "Minor accident reported near Riverside node",
+      "allAlerts": [
+        "Minor accident reported near Riverside node"
+      ],
+      "events": [],
+      "markers": [
+        {
+          "id": 1,
+          "name": "Central District",
+          "lat": 13.0418,
+          "lng": 80.2341,
+          "traffic": 22,
+          "status": "normal"
+        },
+        {
+          "id": 2,
+          "name": "North Harbor",
+          "lat": 13.0033,
+          "lng": 80.255,
+          "traffic": 35,
+          "status": "normal"
+        },
+        {
+          "id": 3,
+          "name": "Tech Park",
+          "lat": 13.085,
+          "lng": 80.2101,
+          "traffic": 64,
+          "status": "traffic"
+        },
+        {
+          "id": 4,
+          "name": "Riverside",
+          "lat": 12.9796,
+          "lng": 80.2185,
+          "traffic": 27,
+          "status": "normal"
+        },
+        {
+          "id": 5,
+          "name": "Southern Hub",
+          "lat": 12.8913,
+          "lng": 80.2241,
+          "traffic": 27,
+          "status": "normal"
+        }
+      ],
+      "timestamp": "12:41:19 pm",
+      "id": 1782285079703
+    },
+    {
+      "traffic": 38,
+      "weather": "Rain",
+      "temperature": 32,
+      "humidity": 74,
+      "airQualityIndex": 49,
+      "pollutionLevel": "Good",
+      "alert": "Weather delay risk alert",
+      "allAlerts": [
+        "Weather delay risk alert"
+      ],
+      "events": [],
+      "markers": [
+        {
+          "id": 1,
+          "name": "Central District",
+          "lat": 13.0418,
+          "lng": 80.2341,
+          "traffic": 18,
+          "status": "normal"
+        },
+        {
+          "id": 2,
+          "name": "North Harbor",
+          "lat": 13.0033,
+          "lng": 80.255,
+          "traffic": 39,
+          "status": "normal"
+        },
+        {
+          "id": 3,
+          "name": "Tech Park",
+          "lat": 13.085,
+          "lng": 80.2101,
+          "traffic": 72,
+          "status": "traffic"
+        },
+        {
+          "id": 4,
+          "name": "Riverside",
+          "lat": 12.9796,
+          "lng": 80.2185,
+          "traffic": 28,
+          "status": "normal"
+        },
+        {
+          "id": 5,
+          "name": "Southern Hub",
+          "lat": 12.8913,
+          "lng": 80.2241,
+          "traffic": 20,
+          "status": "normal"
+        }
+      ],
+      "timestamp": "12:41:24 pm",
+      "id": 1782285084719
+    },
+    {
+      "traffic": 51,
+      "weather": "Sunny",
+      "temperature": 27,
+      "humidity": 54,
+      "airQualityIndex": 65,
+      "pollutionLevel": "Good",
+      "alert": "All systems operational",
+      "allAlerts": [],
+      "events": [],
+      "markers": [
+        {
+          "id": 1,
+          "name": "Central District",
+          "lat": 13.0418,
+          "lng": 80.2341,
+          "traffic": 25,
+          "status": "normal"
+        },
+        {
+          "id": 2,
+          "name": "North Harbor",
+          "lat": 13.0033,
+          "lng": 80.255,
+          "traffic": 41,
+          "status": "normal"
+        },
+        {
+          "id": 3,
+          "name": "Tech Park",
+          "lat": 13.085,
+          "lng": 80.2101,
+          "traffic": 80,
+          "status": "traffic"
+        },
+        {
+          "id": 4,
+          "name": "Riverside",
+          "lat": 12.9796,
+          "lng": 80.2185,
+          "traffic": 25,
+          "status": "normal"
+        },
+        {
+          "id": 5,
+          "name": "Southern Hub",
+          "lat": 12.8913,
+          "lng": 80.2241,
+          "traffic": 25,
+          "status": "normal"
+        }
+      ],
+      "timestamp": "12:41:29 pm",
+      "id": 1782285089722
+    },
+    {
+      "traffic": 53,
+      "weather": "Rain",
+      "temperature": 31,
+      "humidity": 84,
+      "airQualityIndex": 60,
+      "pollutionLevel": "Good",
+      "alert": "Weather delay risk alert",
+      "allAlerts": [
+        "Weather delay risk alert",
+        "Minor accident reported near Riverside node"
+      ],
+      "events": [],
+      "markers": [
+        {
+          "id": 1,
+          "name": "Central District",
+          "lat": 13.0418,
+          "lng": 80.2341,
+          "traffic": 32,
+          "status": "normal"
+        },
+        {
+          "id": 2,
+          "name": "North Harbor",
+          "lat": 13.0033,
+          "lng": 80.255,
+          "traffic": 43,
+          "status": "normal"
+        },
+        {
+          "id": 3,
+          "name": "Tech Park",
+          "lat": 13.085,
+          "lng": 80.2101,
+          "traffic": 73,
+          "status": "traffic"
+        },
+        {
+          "id": 4,
+          "name": "Riverside",
+          "lat": 12.9796,
+          "lng": 80.2185,
+          "traffic": 26,
+          "status": "normal"
+        },
+        {
+          "id": 5,
+          "name": "Southern Hub",
+          "lat": 12.8913,
+          "lng": 80.2241,
+          "traffic": 18,
+          "status": "normal"
+        }
+      ],
+      "timestamp": "12:41:34 pm",
+      "id": 1782285094728
+    },
+    {
+      "traffic": 44,
+      "weather": "Cloudy",
+      "temperature": 27,
+      "humidity": 57,
+      "airQualityIndex": 59,
+      "pollutionLevel": "Good",
+      "alert": "All systems operational",
+      "allAlerts": [],
+      "events": [
+        "VIP Movement"
+      ],
+      "markers": [
+        {
+          "id": 1,
+          "name": "Central District",
+          "lat": 13.0418,
+          "lng": 80.2341,
+          "traffic": 25,
+          "status": "normal"
+        },
+        {
+          "id": 2,
+          "name": "North Harbor",
+          "lat": 13.0033,
+          "lng": 80.255,
+          "traffic": 43,
+          "status": "normal"
+        },
+        {
+          "id": 3,
+          "name": "Tech Park",
+          "lat": 13.085,
+          "lng": 80.2101,
+          "traffic": 73,
+          "status": "traffic"
+        },
+        {
+          "id": 4,
+          "name": "Riverside",
+          "lat": 12.9796,
+          "lng": 80.2185,
+          "traffic": 19,
+          "status": "normal"
+        },
+        {
+          "id": 5,
+          "name": "Southern Hub",
+          "lat": 12.8913,
+          "lng": 80.2241,
+          "traffic": 22,
+          "status": "normal"
+        }
+      ],
+      "timestamp": "12:41:39 pm",
+      "id": 1782285099739
+    },
+    {
+      "traffic": 45,
+      "weather": "Sunny",
+      "temperature": 28,
+      "humidity": 50,
+      "airQualityIndex": 51,
+      "pollutionLevel": "Good",
+      "alert": "All systems operational",
+      "allAlerts": [],
+      "events": [],
+      "markers": [
+        {
+          "id": 1,
+          "name": "Central District",
+          "lat": 13.0418,
+          "lng": 80.2341,
+          "traffic": 21,
+          "status": "normal"
+        },
+        {
+          "id": 2,
+          "name": "North Harbor",
+          "lat": 13.0033,
+          "lng": 80.255,
+          "traffic": 48,
+          "status": "normal"
+        },
+        {
+          "id": 3,
+          "name": "Tech Park",
+          "lat": 13.085,
+          "lng": 80.2101,
+          "traffic": 77,
+          "status": "traffic"
+        },
+        {
+          "id": 4,
+          "name": "Riverside",
+          "lat": 12.9796,
+          "lng": 80.2185,
+          "traffic": 27,
+          "status": "normal"
+        },
+        {
+          "id": 5,
+          "name": "Southern Hub",
+          "lat": 12.8913,
+          "lng": 80.2241,
+          "traffic": 16,
+          "status": "normal"
+        }
+      ],
+      "timestamp": "12:41:44 pm",
+      "id": 1782285104750
+    },
+    {
+      "traffic": 40,
+      "weather": "Sunny",
+      "temperature": 28,
+      "humidity": 72,
+      "airQualityIndex": 46,
+      "pollutionLevel": "Good",
+      "alert": "All systems operational",
+      "allAlerts": [],
+      "events": [
+        "VIP Movement"
+      ],
+      "markers": [
+        {
+          "id": 1,
+          "name": "Central District",
+          "lat": 13.0418,
+          "lng": 80.2341,
+          "traffic": 20,
+          "status": "normal"
+        },
+        {
+          "id": 2,
+          "name": "North Harbor",
+          "lat": 13.0033,
+          "lng": 80.255,
+          "traffic": 54,
+          "status": "normal"
+        },
+        {
+          "id": 3,
+          "name": "Tech Park",
+          "lat": 13.085,
+          "lng": 80.2101,
+          "traffic": 71,
+          "status": "traffic"
+        },
+        {
+          "id": 4,
+          "name": "Riverside",
+          "lat": 12.9796,
+          "lng": 80.2185,
+          "traffic": 20,
+          "status": "normal"
+        },
+        {
+          "id": 5,
+          "name": "Southern Hub",
+          "lat": 12.8913,
+          "lng": 80.2241,
+          "traffic": 21,
+          "status": "normal"
+        }
+      ],
+      "timestamp": "12:41:49 pm",
+      "id": 1782285109764
+    },
+    {
+      "traffic": 57,
+      "weather": "Sunny",
+      "temperature": 26,
+      "humidity": 53,
+      "airQualityIndex": 70,
+      "pollutionLevel": "Good",
+      "alert": "All systems operational",
+      "allAlerts": [],
+      "events": [],
+      "markers": [
+        {
+          "id": 1,
+          "name": "Central District",
+          "lat": 13.0418,
+          "lng": 80.2341,
+          "traffic": 15,
+          "status": "normal"
+        },
+        {
+          "id": 2,
+          "name": "North Harbor",
+          "lat": 13.0033,
+          "lng": 80.255,
+          "traffic": 54,
+          "status": "normal"
+        },
+        {
+          "id": 3,
+          "name": "Tech Park",
+          "lat": 13.085,
+          "lng": 80.2101,
+          "traffic": 68,
+          "status": "traffic"
+        },
+        {
+          "id": 4,
+          "name": "Riverside",
+          "lat": 12.9796,
+          "lng": 80.2185,
+          "traffic": 25,
+          "status": "normal"
+        },
+        {
+          "id": 5,
+          "name": "Southern Hub",
+          "lat": 12.8913,
+          "lng": 80.2241,
+          "traffic": 15,
+          "status": "normal"
+        }
+      ],
+      "timestamp": "12:41:54 pm",
+      "id": 1782285114774
+    },
+    {
+      "traffic": 48,
+      "weather": "Sunny",
+      "temperature": 26,
+      "humidity": 69,
+      "airQualityIndex": 60,
+      "pollutionLevel": "Good",
+      "alert": "All systems operational",
+      "allAlerts": [],
+      "events": [],
+      "markers": [
+        {
+          "id": 1,
+          "name": "Central District",
+          "lat": 13.0418,
+          "lng": 80.2341,
+          "traffic": 15,
+          "status": "normal"
+        },
+        {
+          "id": 2,
+          "name": "North Harbor",
+          "lat": 13.0033,
+          "lng": 80.255,
+          "traffic": 60,
+          "status": "traffic"
+        },
+        {
+          "id": 3,
+          "name": "Tech Park",
+          "lat": 13.085,
+          "lng": 80.2101,
+          "traffic": 62,
+          "status": "traffic"
+        },
+        {
+          "id": 4,
+          "name": "Riverside",
+          "lat": 12.9796,
+          "lng": 80.2185,
+          "traffic": 30,
+          "status": "normal"
+        },
+        {
+          "id": 5,
+          "name": "Southern Hub",
+          "lat": 12.8913,
+          "lng": 80.2241,
+          "traffic": 15,
+          "status": "normal"
+        }
+      ],
+      "timestamp": "12:41:59 pm",
+      "id": 1782285119781
+    },
+    {
+      "traffic": 37,
+      "weather": "Rain",
+      "temperature": 33,
+      "humidity": 57,
+      "airQualityIndex": 46,
+      "pollutionLevel": "Good",
+      "alert": "Weather delay risk alert",
+      "allAlerts": [
+        "Weather delay risk alert"
+      ],
+      "events": [],
+      "markers": [
+        {
+          "id": 1,
+          "name": "Central District",
+          "lat": 13.0418,
+          "lng": 80.2341,
+          "traffic": 21,
+          "status": "normal"
+        },
+        {
+          "id": 2,
+          "name": "North Harbor",
+          "lat": 13.0033,
+          "lng": 80.255,
+          "traffic": 63,
+          "status": "traffic"
+        },
+        {
+          "id": 3,
+          "name": "Tech Park",
+          "lat": 13.085,
+          "lng": 80.2101,
+          "traffic": 57,
+          "status": "traffic"
+        },
+        {
+          "id": 4,
+          "name": "Riverside",
+          "lat": 12.9796,
+          "lng": 80.2185,
+          "traffic": 27,
+          "status": "normal"
+        },
+        {
+          "id": 5,
+          "name": "Southern Hub",
+          "lat": 12.8913,
+          "lng": 80.2241,
+          "traffic": 15,
+          "status": "normal"
+        }
+      ],
+      "timestamp": "12:42:04 pm",
+      "id": 1782285124783
+    }
+  ]
+}
